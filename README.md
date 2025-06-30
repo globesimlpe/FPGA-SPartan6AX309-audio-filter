@@ -1,6 +1,5 @@
 # FPGA-SPartan6AX309-audio-filter
 FPGA课程设计修改官方案例
-好耶！下面我帮你整理一份完整的 README，适合你之前做的 Spartan-6 + WM8731 音频开发项目，涵盖：
 
 ✅ 使用 Spartan-6 FPGA + WM8731 音频编解码器
 ✅ 配置 WM8731 为 **从模式（Slave）**，数据格式采用 **DSP Mode B**
